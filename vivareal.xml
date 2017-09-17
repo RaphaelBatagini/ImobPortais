@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListingDataFeed xmlns="http://www.vivareal.com/schemas/1.0/VRSync" 
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                 xsi:schemaLocation="http://www.vivareal.com/schemas/1.0/VRSync  http://xml.vivareal.com/vrsync.xsd">
+  <Header>
+        <Provider>Fornecedor do Feed Brasil</Provider>
+        <Email>contacto@fornecedor.com</Email>
+        <ContactName>Nome para Contato</ContactName>
+        <PublishDate>2009-08-10T11:17:14</PublishDate>
+        <Logo>www.fornecedor.com.br/Logo.jpg</Logo>
+        <Telephone>(11) 3217-4290</Telephone>
+  </Header>
+  <Listings>
+    <Listing>
+        <ListingID>1005434</ListingID>
+        <Title><![CDATA[Venda ou alugo Sobrado em São Paulo ]]></Title>
+        <TransactionType>Sale/Rent</TransactionType>
+        <Featured>true</Featured>
+        <ListDate>2012-05-07T15:30:00</ListDate>
+        <LastUpdateDate>2012-05-07T03:05:00</LastUpdateDate>
+        <DetailViewUrl>http://www.fornecedor.com.br/imoveis/1005434</DetailViewUrl>
+        <Media>
+            <Item medium="video">https://www.youtube.com/1005434</Item>
+            <Item medium="image" caption="nome imagem" primary="true">http://www.fornecedor.com.br/images/fdafdafda.jpg</Item>
+            <Item medium="image" caption="nome imagem">http://www.fornecedor.com.br/images/uytrdfgfd.jpg</Item>   
+            <Item medium="image" caption="nome imagem">http://www.fornecedor.com.br/images/67ytfghtf.jpg</Item>    
+            <Item medium="image" caption="nome imagem">http://www.fornecedor.com.br/images/234rfghg.jpg</Item>   
+            <Item medium="image" caption="nome imagem">http://www.fornecedor.com.br/images/234rfddg.jpg</Item>    
+            <Item medium="image" caption="nome imagem">http://www.fornecedor.com.br/images/fdafdaffs.jpg</Item>    
+            <Item medium="image" caption="nome imagem">http://www.fornecedor.com.br/images/fdafda33.jpg</Item>   
+            <Item medium="image" caption="nome imagem">http://www.fornecedor.com.br/images/fdafdfa3f.jpg</Item>    
+            <Item medium="image" caption="nome imagem">http://www.fornecedor.com.br/images/34567ijh.jpg</Item>   
+            <Item medium="image" caption="nome imagem">http://www.fornecedor.com.br/images/oopoppo.jpg</Item>    
+            <Item medium="image" caption="nome imagem">http://www.fornecedor.com.br/images/opopopp.jpg</Item>   
+            <Item medium="image" caption="nome imagem">http://www.fornecedor.com.br/images/opopopo.jpg</Item>    
+            <Item medium="image" caption="nome imagem">http://www.fornecedor.com.br/images/opopooo.jpg</Item>   
+            <Item medium="image" caption="nome imagem">http://www.fornecedor.com.br/images/iiiiiinjgfsg.jpg</Item>    
+            <Item medium="image" caption="nome imagem">http://www.fornecedor.com.br/images/glpflplplp.jpg</Item>   
+            <Item medium="image" caption="nome imagem">http://www.fornecedor.com.br/images/popoopp.jpg</Item>    
+            <Item medium="image" caption="nome imagem">http://www.fornecedor.com.br/images/0o0o00o.jpg</Item>   
+            <Item medium="image" caption="nome imagem">http://www.fornecedor.com.br/images/opofpdof.jpg</Item>    
+            <Item medium="image" caption="nome imagem">http://www.fornecedor.com.br/images/fdkaofffd.jpg</Item>   
+            <Item medium="image" caption="nome imagem">http://www.fornecedor.com.br/images/fdafaadff.jpg</Item>    
+            <Item medium="image" caption="nome imagem">http://www.fornecedor.com.br/images/fdadfafaf.jpg</Item>    
+            <Item medium="image" caption="nome imagem">http://www.fornecedor.com.br/images/fdsafdaff.jpg</Item>   
+            <Item medium="image" caption="nome imagem">http://www.fornecedor.com.br/images/fadfafafa.jpg</Item>    
+            <Item medium="image" caption="nome imagem">http://www.fornecedor.com.br/images/fdafaffaff.jpg</Item>   
+            <Item medium="image" caption="nome imagem">http://www.fornecedor.com.br/images/fdafdada.jpg</Item>    
+            <Item medium="image" caption="nome imagem">http://www.fornecedor.com.br/images/fdfafaafa.jpg</Item>   
+            <Item medium="image" caption="nome imagem">http://www.fornecedor.com.br/images/fdfdff333.jpg</Item>    
+            <Item medium="image" caption="nome imagem">http://www.fornecedor.com.br/images/fda/848d.jpg</Item>   
+            <Item medium="image" caption="nome imagem">http://www.fornecedor.com.br/images/fdfda885.jpg</Item>    
+            <Item medium="image" caption="nome imagem">http://www.fornecedor.com.br/images/uyuyteytr.jpg</Item>   
+            <Item medium="image" caption="nome imagem">http://www.fornecedor.com.br/images/7848fdaf.jpg</Item>    
+        </Media>
+        <Details>
+            <PropertyType>Residential / Sobrado</PropertyType>
+            <Description><![CDATA[ Lindo sobrado com 250 m2. 4 dormitórios sendo 1 suíte com varanda, 4 banheiros, Térreo com garagem para dois carros. Piso intermediário tem uma sala bem ampla em "L" com grande janela de vidro (5m x 2m) e totalmente integrada com a cozinha americana, lavabo/banheiro, sala de tv e ao fundo, um quarto com lareira e porta balcão para o quintal. Piso Superior, dois quartos espaçosos e um banheiro amplo, uma suíte enorme com banheira. desta suíte, acesso para um dos melhores locais da casa! uma varanda de 35m2 com vista para o instituto Butantã/USP. boa localização, bairro tranquilo. Agende agora mesmo sua visita! ]]>
+            </Description>
+            <ListPrice currency="BRL">287200</ListPrice>
+            <RentalPrice currency="BRL" period="Monthly">1000</RentalPrice>
+            <PropertyAdministrationFee currency="BRL">300</PropertyAdministrationFee>
+            <YearlyTax currency="BRL">350</YearlyTax>
+            <LivingArea unit="square metres">250</LivingArea>
+            <Bedrooms>4</Bedrooms>
+            <Bathrooms>4</Bathrooms>
+            <Suites>1</Suites>
+            <Garage type="Parking Space">2</Garage>
+            <Features>
+                  <Feature>Fully Wired</Feature>
+                  <Feature>Generator</Feature>
+                  <Feature>RV Parking</Feature>
+                  <Feature>BBQ</Feature>
+                  <Feature>Bar</Feature>
+                  <Feature>Backyard</Feature>
+                  <Feature>Alarm System</Feature>
+                  <Feature>Gated Community</Feature>
+                  <Feature>24 Hour Security</Feature>
+                  <Feature>TV Security</Feature>
+                  <Feature>Doorman</Feature>
+                  <Feature>Fire Alarm</Feature>
+                  <Feature>Kitchen</Feature>
+                  <Feature>Basement</Feature>
+                  <Feature>Living Room</Feature>
+                  <Feature>Dining Room</Feature>
+                  <Feature>Study</Feature>
+                  <Feature>Storage Room</Feature>            
+            </Features>
+        </Details>
+        <Location displayAddress="All" >
+            <Country abbreviation="BR">Brasil</Country>
+            <State abbreviation="SP">Sao Paulo</State>
+            <City>São Paulo</City>
+            <Zone>Zona Oeste</Zone>
+            <Neighborhood>Butanta</Neighborhood>
+            <Address>Rua Emílio Ribas</Address>
+            <StreetNumber>80</StreetNumber>
+            <PostalCode>05503-100</PostalCode>
+            <Latitude>-23.566710</Latitude>
+            <Longitude>-46.719118</Longitude>
+        </Location>
+        <ContactInfo>
+            <Name>Fornecedor do Feed Brasil</Name>
+            <Email>fornecedor@brasil.com.br</Email>
+            <Website>WebSite</Website>
+            <Photo>www.fornecedor.com.br/Photo.jpg</Photo>
+            <Logo>www.fornecedor.com.br/Logo.jpg</Logo>
+            <OfficeName>Nome da Agência</OfficeName>
+            <Telephone>(11) 3150-4646</Telephone>
+            <Location>
+                  <Country abbreviation="BR">Brasil</Country>
+                  <State abbreviation="SP">Sao Paulo</State>
+                  <City>São Paulo</City>
+                  <Neighborhood>Campeche</Neighborhood>
+                  <Address>Rua Guarandi, 90</Address> 
+                  <PostalCode>03709-000</PostalCode>
+                  <Latitude>-25.4188</Latitude>
+                  <Longitude>-49.3386</Longitude>
+            </Location>
+        </ContactInfo>
+    </Listing>
+  </Listings>
+</ListingDataFeed>
