@@ -6,7 +6,7 @@
 					        <Provider>Caio Almeida</Provider>
 					        <Email>caiovpalmeida@gmail.com</Email>
 					        <ContactName>Caio Almeida</ContactName>
-					        <PublishDate>2017-09-17T23:09:33</PublishDate>
+					        <PublishDate>2017-09-25T17:54:57</PublishDate>
 					        <Logo>http://caioalmeida.in9ti.com/wp-content/uploads/2017/04/logo-site02.png</Logo>
 					        <Telephone>(19) 98248-0775</Telephone>
 					  	</Header>
@@ -30,7 +30,7 @@
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">Mato Grosso do Sul</State>
 					            <City></City>
@@ -89,7 +89,7 @@ Características: Quarto de empregada, armários embutidos, piscina, varanda, sa
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space">1</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -152,7 +152,7 @@ Características: Armários embutidos, piscina, varanda, salão de festas, área
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space">2</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -236,7 +236,7 @@ Características: Academia, armários embutidos, varanda, área de serviço, chu
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space">1</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -292,7 +292,7 @@ Características: Academia, armários embutidos, varanda, área de serviço, chu
 					            <Bathrooms>2</Bathrooms>
 					            <Garage type="Parking Space">6</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -361,7 +361,7 @@ Características: Armários embutidos, piscina, salão de festas, área de servi
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space">2</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -425,7 +425,7 @@ Características: Ar condicionado, piscina, armários embutidos, área de servi�
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space">2</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -499,7 +499,7 @@ Características: Ar condicionado, piscina, armários embutidos, área de servi�
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space">2</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -558,7 +558,7 @@ Características: Ar condicionado, piscina, armários embutidos, varanda, área 
 					            <Bathrooms>7</Bathrooms>
 					            <Garage type="Parking Space">2</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -621,7 +621,7 @@ Brinquedoteca ]]>
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space">1</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -675,7 +675,7 @@ Características: Armários embutidos, varanda, área de serviço, churrasqueira
 					            <Bathrooms>2</Bathrooms>
 					            <Garage type="Parking Space">4</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -726,7 +726,7 @@ Características: Área de serviço ]]>
 					            <Bathrooms>3</Bathrooms>
 					            <Garage type="Parking Space">3</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -786,7 +786,7 @@ Características: Armários embutidos, piscina, varanda, salão de festas, área
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space">1</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -841,7 +841,7 @@ Características: Armários embutidos, área de serviço, churrasqueira ]]>
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space">2</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -902,7 +902,7 @@ Características: Piscina, área de serviço, churrasqueira, porteiro 24h ]]>
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space">2</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -976,7 +976,7 @@ Características: Ar condicionado, piscina, armários embutidos, varanda, área 
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space">6</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -1036,7 +1036,7 @@ Características: Armários embutidos, varanda, área de serviço ]]>
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space">3</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -1104,7 +1104,7 @@ condominio R$ 570,00 ]]>
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space">1</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -1200,7 +1200,7 @@ Prazo de entrega do imóvel = 31 de Agosto de 2017 ]]>
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space">3</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -1259,7 +1259,7 @@ Características: Ar condicionado, armários embutidos, varanda, área de servi�
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space">2</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -1327,7 +1327,7 @@ Local privilegiado, tranquilo com muito verde e ao mesmo tempo no centro da cida
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -1384,7 +1384,7 @@ Valor Para vender rapidamente. ]]>
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space">2</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -1438,7 +1438,7 @@ Características: Piscina, armários embutidos, área de serviço, churrasqueira
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space">4</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -1492,7 +1492,7 @@ Características: Armários embutidos, área de serviço, salão de festas, port
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space">1</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -1554,7 +1554,7 @@ PRÓXIMO AO COLÉGIO CRESCER, COLÉGIO GÊNIOS, ACADEMIA OMEGA, PRAÇA ESPORTE T
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space">4</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -1625,7 +1625,7 @@ Venda: 292.554,00 ]]>
 					            <Bathrooms></Bathrooms>
 					            <Garage type="Parking Space">1</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -1684,7 +1684,7 @@ Características: Área de serviço ]]>
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space">1</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -1736,7 +1736,7 @@ Características: Área de serviço ]]>
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP"></State>
 					            <City></City>
@@ -1793,7 +1793,7 @@ Sala com debito de 37 mil, aceito carro, terreno, caminhonete, negocio...depende
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -1846,7 +1846,7 @@ Sala com debito de 37 mil, aceito carro, terreno, caminhonete, negocio...depende
 					            <Bathrooms>0</Bathrooms>
 					            <Garage type="Parking Space">1</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -1896,7 +1896,7 @@ Garagem com portão eletrônico para 02 veículos.  ]]>
 					            <Bathrooms>2</Bathrooms>
 					            <Garage type="Parking Space">2</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -1953,7 +1953,7 @@ Garagem com portão eletrônico para 02 veículos.  ]]>
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space">1</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -2018,7 +2018,7 @@ Excelente localização, próximo Castelo e Av. Barão de Itapura.
 					            <Bathrooms>2</Bathrooms>
 					            <Garage type="Parking Space">1</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -2077,7 +2077,7 @@ Entre em contato (19) 98248-0775 ]]>
 					            <Bathrooms></Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -2132,7 +2132,7 @@ Toda documentação em ordem, aceita financiamento e carro como parte da entrada
 					            <Bathrooms>2</Bathrooms>
 					            <Garage type="Parking Space">2</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -2201,7 +2201,7 @@ Características: Armários embutidos, área de serviço, churrasqueira, salão 
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space">1</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -2262,7 +2262,7 @@ Varanda para os fundos do prédio, bem silencioso.
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space">1</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -2320,7 +2320,7 @@ Pé direito de 7 / 11 metros de altura, vão livre de 30 metros de largura. Acab
 					            <Bathrooms>0</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -2405,7 +2405,7 @@ R. Líbero Badaró, 19 – Jardim Santa Rita de Cassia, Hortolândia – SP, 131
 					            <Bathrooms></Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -2497,7 +2497,7 @@ R. Líbero Badaró, 19 - Jardim Santa Rita de Cassia, Hortolândia - SP, 13184-6
 					            <Bathrooms>3</Bathrooms>
 					            <Garage type="Parking Space">4</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -2549,7 +2549,7 @@ Condomínio: R$ 583 ]]>
 					            <Bathrooms>0</Bathrooms>
 					            <Garage type="Parking Space">1</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -2610,7 +2610,7 @@ IPTU: R$ 70 ]]>
 					            <Bathrooms>2</Bathrooms>
 					            <Garage type="Parking Space">1</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -2669,7 +2669,7 @@ IPTU: R$ 80 ]]>
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space">2</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -2725,7 +2725,7 @@ Condomínio: R$ 782                      IPTU: R$ 426 ]]>
 					            <Bathrooms>5</Bathrooms>
 					            <Garage type="Parking Space">6</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -2788,7 +2788,7 @@ Condomínio: R$ 400 ]]>
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space">1</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -2844,7 +2844,7 @@ Entre em contato por whatsapp (19) 98248-0775. ]]>
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -2899,7 +2899,7 @@ Entre em contato por whatsapp . ]]>
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -2958,7 +2958,7 @@ Madalena, Campinas, CEP 13091-611. 180 m2 de área construída e aproximadamente
 					            <Bathrooms>4</Bathrooms>
 					            <Garage type="Parking Space">4</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -3016,7 +3016,7 @@ Entre em contato por whatsapp (19) 98248-0775.
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space">1</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -3073,7 +3073,7 @@ Entre em contato por whatsapp (19) 98248-0775.
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space">2</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -3149,7 +3149,7 @@ Unidades com tamanhos que vão atender perfeitamente a sua necessidade.
 					            <Bathrooms></Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -3225,7 +3225,7 @@ Damha Village, Birigui -Avenida José Agostinho Rossi, Vila Pontes, Birigüi
 					            <Bathrooms></Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -3305,7 +3305,7 @@ Temos outros 2 lotes a venda. ]]>
 					            <Bathrooms></Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -3359,7 +3359,7 @@ Quadra de areia, Mirante
 					            <Bathrooms></Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -3413,7 +3413,7 @@ Entre em contato via whatsapp (19) 98248-0775.
 					            <Bathrooms>2</Bathrooms>
 					            <Garage type="Parking Space">2</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -3463,7 +3463,7 @@ Entre em contato via whatsapp (19) 98248-0775. ]]>
 					            <Bathrooms>2</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -3517,7 +3517,7 @@ Entre em contato por Whatsapp (19) 98248-0775. ]]>
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space">1</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -3570,7 +3570,7 @@ Entre em contato por Whatsapp (19) 98248-0775. ]]>
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space">2</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -3631,7 +3631,7 @@ Entre em contato por Whatsapp (19) 98248-0775. ]]>
 					            <Bathrooms>2</Bathrooms>
 					            <Garage type="Parking Space">2</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -3679,7 +3679,7 @@ Entre em contato por Whatsapp (19) 98248-0775. ]]>
 					            <Bathrooms>0</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -3733,7 +3733,7 @@ Entre em contato via whatsapp (19) 98248-0775.
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space">1</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -3781,7 +3781,7 @@ Entre em contato via whatsapp (19) 98248-0775.
 					            <Bathrooms>0</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -3831,7 +3831,7 @@ Entre em contato via whatsapp (19) 98248-0775.
 					            <Bathrooms></Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -3905,7 +3905,7 @@ Estado : SP
 					            <Bathrooms>4</Bathrooms>
 					            <Garage type="Parking Space">4</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -3939,7 +3939,7 @@ Estado : SP
 					        <TransactionType>For Rent</TransactionType>
 					        <Featured></Featured>
 					        <ListDate>2017-07-30T17:32:20</ListDate>
-					        <LastUpdateDate>2017-09-06T15:15:51</LastUpdateDate>
+					        <LastUpdateDate>2017-07-30T17:32:20</LastUpdateDate>
 					        <DetailViewUrl>http://local.caioalmeida.com.br/solucoesimobiliarias/properties/casa-hortolandia/</DetailViewUrl>
 					        <Media>
 <Item medium="image" caption="nome imagem"primary="true">http://local.caioalmeida.com.br/solucoesimobiliarias/wp-content/uploads/2017/07/Sem-titulo-9.png</Item>
@@ -3966,7 +3966,7 @@ Aluguel R$ 1.300,00
 					            <Bathrooms>2</Bathrooms>
 					            <Garage type="Parking Space">2</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -4015,7 +4015,7 @@ Aluguel R$ 1.300,00
 					            <Bathrooms>0</Bathrooms>
 					            <Garage type="Parking Space">1</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -4084,7 +4084,7 @@ Características: Academia, armários embutidos, varanda, churrasqueira, piscina
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space">1</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -4132,7 +4132,7 @@ Características: Academia, armários embutidos, varanda, churrasqueira, piscina
 					            <Bathrooms>5</Bathrooms>
 					            <Garage type="Parking Space">5</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -4180,7 +4180,7 @@ Características: Academia, armários embutidos, varanda, churrasqueira, piscina
 					            <Bathrooms></Bathrooms>
 					            <Garage type="Parking Space">20</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -4230,7 +4230,7 @@ Características: Academia, armários embutidos, varanda, churrasqueira, piscina
 					            <Bathrooms>0</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -4278,7 +4278,7 @@ Características: Academia, armários embutidos, varanda, churrasqueira, piscina
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space">1</Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -4327,7 +4327,7 @@ Próximo ao Parque Ecológico ]]>
 					            <Bathrooms>3</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -4375,7 +4375,7 @@ Próximo ao Parque Ecológico ]]>
 					            <Bathrooms></Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -4430,7 +4430,7 @@ Próximo ao Parque Ecológico ]]>
 					            <Bathrooms></Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -4478,7 +4478,7 @@ Próximo ao Parque Ecológico ]]>
 					            <Bathrooms>0</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR"></Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -4526,7 +4526,7 @@ Próximo ao Parque Ecológico ]]>
 					            <Bathrooms></Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -4577,7 +4577,7 @@ Próximo ao Parque Ecológico ]]>
 					            <Bathrooms>0</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -4626,7 +4626,7 @@ Próximo ao Parque Ecológico ]]>
 					            <Bathrooms>0</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -4677,7 +4677,7 @@ Vendo terreno no alto do condomínio, tendo vista para todo o condomínio e para
 					            <Bathrooms>0</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -4726,7 +4726,7 @@ sala 04. ]]>
 					            <Bathrooms></Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -4775,7 +4775,7 @@ sala 04. ]]>
 					            <Bathrooms></Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -4831,7 +4831,7 @@ Estimativa de valorização do empreendimento de aprox. 50%  e locação de 1.2%
 					            <Bathrooms>0</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -4881,7 +4881,7 @@ Galpão em área nobre da cidade, com intenso fluxo de carro. Bom para concessio
 					            <Bathrooms>0</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -4929,7 +4929,7 @@ Galpão em área nobre da cidade, com intenso fluxo de carro. Bom para concessio
 					            <Bathrooms>0</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -5066,7 +5066,7 @@ Bairro:  Botafogo
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -5118,7 +5118,7 @@ Bairro:  Botafogo
 					            <Bathrooms>2</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -5177,7 +5177,7 @@ Limpeza para as salas já incluída no condomínio; ]]>
 					            <Bathrooms>2</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -5233,7 +5233,7 @@ Limpeza para as salas já incluída no condomínio; ]]>
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -5281,7 +5281,7 @@ Limpeza para as salas já incluída no condomínio; ]]>
 					            <Bathrooms></Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -5348,7 +5348,7 @@ Limpeza para as salas já incluída no condomínio; ]]>
 					            <Bathrooms>0</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -5417,7 +5417,7 @@ Localização
 					            <Bathrooms></Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -5479,7 +5479,7 @@ porteiro 24h
 					            <Bathrooms>0</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -5527,7 +5527,7 @@ porteiro 24h
 					            <Bathrooms></Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">-1</State>
 					            <City></City>
@@ -5582,7 +5582,7 @@ porteiro 24h
 					            <Bathrooms>0</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -5630,7 +5630,7 @@ porteiro 24h
 					            <Bathrooms></Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -5680,7 +5680,7 @@ Conheça: https://www.youtube.com/watch?v=Tm3jPdJll3M&amp;feature=youtu.be ]]>
 					            <Bathrooms>0</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -5730,7 +5730,7 @@ Conheça: https://www.youtube.com/watch?v=U2ybMDIDPSg&amp;feature=youtu.be ]]>
 					            <Bathrooms>0</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -5780,7 +5780,7 @@ Confira: https://www.youtube.com/watch?v=aTYH3ws9hqI&amp;feature=youtu.be ]]>
 					            <Bathrooms>0</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -5830,7 +5830,7 @@ Confira: https://www.youtube.com/watch?v=mVNuqJOEwpQ&amp;feature=youtu.be ]]>
 					            <Bathrooms>0</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -5880,7 +5880,7 @@ Confira: https://www.youtube.com/watch?v=KMzt5vn4yfo&amp;feature=youtu.be ]]>
 					            <Bathrooms>0</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -5928,7 +5928,7 @@ Confira: https://www.youtube.com/watch?v=KMzt5vn4yfo&amp;feature=youtu.be ]]>
 					            <Bathrooms></Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -5976,7 +5976,7 @@ Confira: https://www.youtube.com/watch?v=KMzt5vn4yfo&amp;feature=youtu.be ]]>
 					            <Bathrooms></Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -6026,7 +6026,7 @@ Confira: https://www.youtube.com/watch?v=FQddyRXwPPQ&amp;feature=youtu.be ]]>
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -6076,7 +6076,7 @@ Confira: https://www.youtube.com/watch?v=GyzmZ7cVBgE&amp;feature=youtu.be ]]>
 					            <Bathrooms>0</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -6126,7 +6126,7 @@ Confira: https://www.youtube.com/watch?v=eFnY5xNJa0s&amp;feature=youtu.be ]]>
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -6174,7 +6174,7 @@ Confira: https://www.youtube.com/watch?v=eFnY5xNJa0s&amp;feature=youtu.be ]]>
 					            <Bathrooms></Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -6222,7 +6222,7 @@ Confira: https://www.youtube.com/watch?v=eFnY5xNJa0s&amp;feature=youtu.be ]]>
 					            <Bathrooms></Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -6270,7 +6270,7 @@ Confira: https://www.youtube.com/watch?v=eFnY5xNJa0s&amp;feature=youtu.be ]]>
 					            <Bathrooms></Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -6318,7 +6318,7 @@ Confira: https://www.youtube.com/watch?v=eFnY5xNJa0s&amp;feature=youtu.be ]]>
 					            <Bathrooms></Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -6366,7 +6366,7 @@ Confira: https://www.youtube.com/watch?v=eFnY5xNJa0s&amp;feature=youtu.be ]]>
 					            <Bathrooms></Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -6414,7 +6414,7 @@ Confira: https://www.youtube.com/watch?v=eFnY5xNJa0s&amp;feature=youtu.be ]]>
 					            <Bathrooms>0</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -6462,7 +6462,7 @@ Confira: https://www.youtube.com/watch?v=eFnY5xNJa0s&amp;feature=youtu.be ]]>
 					            <Bathrooms></Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -6510,7 +6510,7 @@ Confira: https://www.youtube.com/watch?v=eFnY5xNJa0s&amp;feature=youtu.be ]]>
 					            <Bathrooms>0</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -6558,7 +6558,7 @@ Confira: https://www.youtube.com/watch?v=eFnY5xNJa0s&amp;feature=youtu.be ]]>
 					            <Bathrooms></Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -6606,7 +6606,7 @@ Confira: https://www.youtube.com/watch?v=eFnY5xNJa0s&amp;feature=youtu.be ]]>
 					            <Bathrooms></Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -6654,7 +6654,7 @@ Confira: https://www.youtube.com/watch?v=eFnY5xNJa0s&amp;feature=youtu.be ]]>
 					            <Bathrooms></Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -6702,7 +6702,7 @@ Confira: https://www.youtube.com/watch?v=eFnY5xNJa0s&amp;feature=youtu.be ]]>
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -6751,7 +6751,7 @@ Confira: https://www.youtube.com/watch?v=eFnY5xNJa0s&amp;feature=youtu.be ]]>
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -6799,7 +6799,7 @@ Confira: https://www.youtube.com/watch?v=eFnY5xNJa0s&amp;feature=youtu.be ]]>
 					            <Bathrooms></Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -6847,7 +6847,7 @@ Confira: https://www.youtube.com/watch?v=eFnY5xNJa0s&amp;feature=youtu.be ]]>
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -6897,7 +6897,7 @@ Entre em contato via whatsapp (19) 98248-0775. ]]>
 					            <Bathrooms>1</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -6945,7 +6945,7 @@ Entre em contato via whatsapp (19) 98248-0775. ]]>
 					            <Bathrooms>4</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -6993,7 +6993,7 @@ Entre em contato via whatsapp (19) 98248-0775. ]]>
 					            <Bathrooms>7</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -7045,7 +7045,7 @@ Entre em contato via whatsapp (19) 98248-0775. ]]>
 					            <Bathrooms>5</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
@@ -7097,7 +7097,7 @@ OBS. Muito interessante para investidor que constrói casa para vender. ]]>
 					            <Bathrooms>0</Bathrooms>
 					            <Garage type="Parking Space"></Garage>
 					        </Details>
-					        <Location displayAddress="All" >
+					        <Location displayAddress="Neighborhood">
 					            <Country abbreviation="BR">Brazil</Country>
 					            <State abbreviation="SP">São Paulo</State>
 					            <City></City>
