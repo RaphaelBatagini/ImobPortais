@@ -105,7 +105,7 @@ class Imob_Portais_Admin {
 	 *
 	 * @since    1.0.0
 	 */
-	public function load_properties() {
+	public static function load_properties() {
 		$query = new WP_Query(array(
 		    'post_type' => 'estate_property',
 		    'post_status' => 'publish',
@@ -175,7 +175,7 @@ class Imob_Portais_Admin {
 		return $properties;
 	}
 
-	public function get_vivareal_category($site_category)
+	public static function get_vivareal_category($site_category)
 	{
 		switch ($site_category) {
 			case 'Apartamentos':
@@ -216,9 +216,9 @@ class Imob_Portais_Admin {
 		}
 	}
 
-	public function generate_vivareal_xml()
+	public static function generate_vivareal_xml()
 	{
-		$properties = $this->load_properties();
+		$properties = Imob_Portais_Admin::load_properties();
 
 		$xml = '<?xml version="1.0" encoding="UTF-8"?>
 					<ListingDataFeed xmlns="http://www.vivareal.com/schemas/1.0/VRSync" 
@@ -255,7 +255,7 @@ class Imob_Portais_Admin {
 
 			$xml .=	        '</Media>
 					        <Details>
-					            <PropertyType>' . $this->get_vivareal_category($property['category']) . '</PropertyType>
+					            <PropertyType>' . Imob_Portais_Admin::get_vivareal_category($property['category']) . '</PropertyType>
 					            <Description><![CDATA[ ' . $property['description'] . ' ]]>
 					            </Description>
 					            <ListPrice currency="BRL">' . $property['price'] . '</ListPrice>
@@ -303,7 +303,7 @@ class Imob_Portais_Admin {
 		fclose($xml_file);
 	}
 
-	public function get_zap_property_type($site_category)
+	public static function get_zap_property_type($site_category)
 	{
 		switch ($site_category) {
 			case 'Apartamentos':
@@ -344,7 +344,7 @@ class Imob_Portais_Admin {
 		}
 	}
 
-	public function get_zap_property_subtype($site_category)
+	public static function get_zap_property_subtype($site_category)
 	{
 		switch ($site_category) {
 			case 'Apartamentos':
@@ -385,7 +385,7 @@ class Imob_Portais_Admin {
 		}
 	}
 
-	public function get_zap_property_category($site_category)
+	public static function get_zap_property_category($site_category)
 	{
 		switch ($site_category) {
 			case 'Apartamentos':
@@ -427,38 +427,30 @@ class Imob_Portais_Admin {
 	}
 
 	public function generate_zap_xml() {
-		$properties = $this->load_properties();
+		$properties = Imob_Portais_Admin::load_properties();
 
 		$xml = '<?xml version="1.0" encoding="UTF-8"?>
-					<ListingDataFeed xmlns="http://www.vivareal.com/schemas/1.0/VRSync" 
-					                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-					                 xsi:schemaLocation="http://www.vivareal.com/schemas/1.0/VRSync  http://xml.vivareal.com/vrsync.xsd">
-					  	<Header>
-					        <Provider>' . get_bloginfo('name') . '</Provider>
-					        <Email>' . get_bloginfo('admin_email') . '</Email>
-					        <ContactName>Caio Almeida</ContactName>
-					        <PublishDate>' . date('Y-m-d\TH:i:s') . '</PublishDate>
-					        <Logo>http://caioalmeida.in9ti.com/wp-content/uploads/2017/04/logo-site02.png</Logo>
-					        <Telephone>(19) 98248-0775</Telephone>
-					  	</Header>
-					<Listings>';
+					<Carga xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+						<Imoveis>';
 
 		foreach ($properties as $id => $property) {
-			$xml .= PHP_EOL . '<Listing>
+			$xml .= PHP_EOL . '<Imovel>
 					        <CodigoImovel>' . $id . '</CodigoImovel>
-					        <Arquivos>';
+					        <Fotos>';
 								
 								foreach ($property['images'] as $key => $img) {
+									$xml .= '<Foto>';
 									$xml .= PHP_EOL . '<NomeArquivo>' . end(explode('/', $img['url'])) . '</NomeArquivo>';
 									$xml .= PHP_EOL . '<URLArquivo>' . $img['url'] . '</URLArquivo>';
 									$featured = $img['featured'] ? 1 : 0;
 									$xml .= PHP_EOL . '<Principal>' . $featured . '</Principal>';
+									$xml .= '</Foto>';
 								}
 
-			$xml .=	       	PHP_EOL . '</Arquivos>
-				            <TipoImovel>' . $this->get_zap_property_type($property['category']) . '</TipoImovel>
-				            <SubTipoImovel>' . $this->get_zap_property_subtype($property['category']) . '</SubTipoImovel>
-				            <CategoriaImovel>' . $this->get_zap_property_category($property['category']) . '</CategoriaImovel>';
+			$xml .=	       	PHP_EOL . '</Fotos>
+				            <TipoImovel>' . Imob_Portais_Admin::get_zap_property_type($property['category']) . '</TipoImovel>
+				            <SubTipoImovel>' . Imob_Portais_Admin::get_zap_property_subtype($property['category']) . '</SubTipoImovel>
+				            <CategoriaImovel>' . Imob_Portais_Admin::get_zap_property_category($property['category']) . '</CategoriaImovel>';
 
 				            //property video
 				            if ($property['video_type'] == 'youtube') {
@@ -478,7 +470,7 @@ class Imob_Portais_Admin {
 
 				            //property area
 				            if (
-				            	$this->get_zap_property_type($property['category']) == 'Terreno'
+                                Imob_Portais_Admin::get_zap_property_type($property['category']) == 'Terreno'
 				            ) {
 				            	$xml .= PHP_EOL . '<AreaTotal>' . $property['size'] . '</AreaTotal>
 				            			<AreaUtil>0</AreaUtil>';
@@ -494,15 +486,21 @@ class Imob_Portais_Admin {
 				            <Cidade>' . $property['city'] . '</Cidade>
 				            <Bairro>' . $property['neighborhood'] . '</Bairro>
 				            <CEP>' . $property['postal_code'] . '</CEP>
-					    </Listing>';
+					    </Imovel>';
 		}
 
-		$xml .=		'</Listings>
-					</ListingDataFeed>';
+		$xml .=		'</Imoveis>
+					</Carga>';
 
 		$xml_file = fopen(dirname(__FILE__) . DIRECTORY_SEPARATOR . 'zap.xml', 'w');
 		fwrite($xml_file, $xml);
 		fclose($xml_file);
 	}
+
+	public function schedule_tasks()
+    {
+        Imob_Portais_Admin::generate_vivareal_xml();
+        Imob_Portais_Admin::generate_zap_xml();
+    }
 
 }

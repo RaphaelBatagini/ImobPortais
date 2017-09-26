@@ -39,6 +39,7 @@ define( 'PLUGIN_VERSION', '1.0.0' );
 function activate_imob_portais() {
 	require_once plugin_dir_path( __FILE__ ) . 'includes/class-imob-portais-activator.php';
 	Imob_Portais_Activator::activate();
+	wp_schedule_event(time(), 'daily', 'load_imob_portais_cron');
 }
 
 /**
@@ -48,6 +49,7 @@ function activate_imob_portais() {
 function deactivate_imob_portais() {
 	require_once plugin_dir_path( __FILE__ ) . 'includes/class-imob-portais-deactivator.php';
 	Imob_Portais_Deactivator::deactivate();
+	wp_clear_scheduled_hook('load_imob_portais_cron');
 }
 
 register_activation_hook( __FILE__, 'activate_imob_portais' );
