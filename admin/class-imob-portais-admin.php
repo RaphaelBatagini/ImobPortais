@@ -298,7 +298,7 @@ class Imob_Portais_Admin {
 		$xml .=		'</Listings>
 					</ListingDataFeed>';
 
-		$xml_file = fopen(dirname(__FILE__) . DIRECTORY_SEPARATOR . 'vivareal.xml', 'w');
+        $xml_file = fopen(plugin_dir_path(dirname(__FILE__)) . 'xml' . DIRECTORY_SEPARATOR . 'vivareal.xml', 'w');
 		fwrite($xml_file, $xml);
 		fclose($xml_file);
 	}
@@ -492,7 +492,7 @@ class Imob_Portais_Admin {
 		$xml .=		'</Imoveis>
 					</Carga>';
 
-		$xml_file = fopen(dirname(__FILE__) . DIRECTORY_SEPARATOR . 'zap.xml', 'w');
+		$xml_file = fopen(plugin_dir_path(dirname(__FILE__)) . 'xml' . DIRECTORY_SEPARATOR . 'zap.xml', 'w');
 		fwrite($xml_file, $xml);
 		fclose($xml_file);
 	}
